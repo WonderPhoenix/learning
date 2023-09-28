@@ -1,7 +1,7 @@
 # Практична робота 3
 ## Алгоритми сортування на мові C++
 ![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/130px-ISO_C%2B%2B_Logo.svg.png)
-print('Hello, World!')
+
 ```
 //
 var foo = 'bar';
@@ -16,3 +16,15 @@ var foo = 'bar';
 | Лінус          | Торвальдс   | Linux           |
 | Денніс         | Рітчі       | С               |
 | Джек           | Дорсі       | Twitter         |
+Markdown
+: Інструмент перетворення тексту в HTML
+
+Філософія Markdown
+: Мова `Markdown` покликана бути такою ж простою для читання та простотою для написання, наскільки це можливо
+
+StackEdit
+: Редактор `Markdown` в браузері
+
+Автори
+: Джон Грубер
+: Бенуа Швеблін
