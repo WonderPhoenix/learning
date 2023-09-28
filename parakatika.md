@@ -28,7 +28,7 @@ Markdown
 
 #### Бульбашка
 ```
-ровкаC++
+
 #include <iostream>
 using namespace std;
 
